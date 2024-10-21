@@ -1,0 +1,26 @@
+.Cards{
+    padding: 90px;
+    img{
+        height: 80px;
+        width: 80px;
+        border-radius: 50%;
+    }
+}
+
+.flex1{
+    display: flex;
+    justify-content: space-around;
+    width: 800px;
+    margin: 0px auto;
+}
+
+    
+
+.flex2{
+    margin-top: 90px;
+    display: flex;
+
+    justify-content: space-around;
+    width: 800px;
+    margin: 0px auto;
+}

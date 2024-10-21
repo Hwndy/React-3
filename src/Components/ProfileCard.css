@@ -1,0 +1,108 @@
+.ProfileCard{
+  height: 300px;
+  width: 250px;
+  align-items: center;
+  border-radius: 20px;
+}
+
+.a{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: black;
+  background-color: aqua;
+  box-shadow: 2px 2px 2px 2px gray;
+
+  h1{
+    border: 1px solid;
+    font-size: 20px;
+  }
+  p{
+    font-size: bold;
+  }
+}
+
+.b{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(13, 13, 10);
+  background-color: rgba(10, 134, 91, 0.404);
+  box-shadow: 2px 2px 2px 2px gray;
+
+  h1{
+    border: 1px solid;
+    font-size: 20px;
+  }
+  p{
+    font-size: bold;
+  }
+}
+
+.c{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: gold;
+  background-color: hotpink;
+  box-shadow: 2px 2px 2px 2px gray;
+
+  h1{
+    border: 1px solid;
+    font-size: 20px;
+  }
+  p{
+    font-size: bold;
+  }
+}
+
+.d{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: gold;
+  background-color: hotpink;
+  box-shadow: 2px 2px 2px 2px gray;
+
+  h1{
+    border: 1px solid;
+    font-size: 20px;
+  }
+  p{
+    font-size: bold;
+  }
+}
+
+.e{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: gold;
+  background-color: hotpink;
+  box-shadow: 2px 2px 2px 2px gray;
+
+  h1{
+    border: 1px solid;
+    font-size: 20px;
+  }
+  p{
+    font-size: bold;
+  }
+}
+
+.f{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: gold;
+  background-color: hotpink;
+  box-shadow: 2px 2px 2px 2px gray;
+
+  h1{
+    border: 1px solid;
+    font-size: 20px;
+  }
+  p{
+    font-size: bold;
+  }
+}
